@@ -1,3 +1,4 @@
 [deps]
 Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
 ReinforcementLearning = "158674fc-8238-5cab-b5ba-03dfc80d1318"
+ReinforcementLearningExperiments = "6bd458e5-1694-412f-b601-3a888375c491"
